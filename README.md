@@ -2,8 +2,10 @@
 Application on microstructure in addictive manufacturing based CGAN  
 
 
-1.数据集：非常抱歉，数据集暂时没有上传，因为还有一些其他基于这些孔隙图的工作还未发表，征求了导师意见后暂时先不上传，董老师如您有需要可以再联系我。
+1.数据集：非常抱歉，数据集暂时没有上传，因为还有一些其他基于这些孔隙图的工作还未发表，征求了导师意见后暂时先不上传，如有需要可以再联系我。
+
 2.code使用torch写的。在GPU上安装tensorlayer时由于tensorflow版本问题未安装成功（当时GPU有其他同学跑tensorflow程序，所以没办法升级版本）决定用以前安装好的torch。
+
 3.requirement：torch>=0.4.1
 torchvision>=0.2.1
 
